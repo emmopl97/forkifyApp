@@ -37,7 +37,7 @@
 137D:\Emmanuel\0. JavasScript\JavaScript Jonas S. Course Material\complete-javascript-course-master\18-forkify\node_modules\htmlnano\test.js133124157435960429 0
 158D:\Emmanuel\0. JavasScript\JavaScript Jonas S. Course Material\complete-javascript-course-master\18-forkify\node_modules\core-js\internals\number-is-finite.js133124324168097567 0
 155D:\Emmanuel\0. JavasScript\JavaScript Jonas S. Course Material\complete-javascript-course-master\18-forkify\node_modules\@parcel\core\src\serializerCore.js133124157437388895 0
-118D:\Emmanuel\0. JavasScript\JavaScript Jonas S. Course Material\complete-javascript-course-master\18-forkify\.gitignore133130042542011486 0
+118D:\Emmanuel\0. JavasScript\JavaScript Jonas S. Course Material\complete-javascript-course-master\18-forkify\.gitignore133130138816322435 0
 112D:\Emmanuel\0. JavasScript\JavaScript Jonas S. Course Material\complete-javascript-course-master\18-forkify\dist133130091702328467 1
 137D:\Emmanuel\0. JavasScript\JavaScript Jonas S. Course Material\complete-javascript-course-master\18-forkify\node_modules\term-size\vendor133124150088015658 1
 127D:\Emmanuel\0. JavasScript\JavaScript Jonas S. Course Material\complete-javascript-course-master\18-forkify\node_modules\braces133124171224666677 1
