@@ -1,4 +1,4 @@
 # Forkify app Project
 
-Recipe app with recipe uploads from Jona´s API. Try it out on desktop 😉:
-https://app.netlify.com/sites/forkifyapp-emmanuelpl/overview
+👍 Recipe App using Jonas Schmedtmann´s API. Try it out on Desktop 😉:
+https://forkifyapp-emmanuelpl.netlify.app/
